@@ -1,3 +1,3 @@
 # Lumina Creative
 
-Simple HTML CSS website for a creatibe agency.
+Simple HTML CSS website for a creative agency.
